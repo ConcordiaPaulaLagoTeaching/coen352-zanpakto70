@@ -4,6 +4,7 @@
 
 
 Anas Ouardaoui
+COEN352
 
 # :wave: The Basics of GitHub 
 
